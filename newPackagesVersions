@@ -1,0 +1,19 @@
+
+fecha   				-   package                 -   version
+
+5-Abril-2016				erasaur:meteor-lodash		3.10.1_1			(removed)
+5-Abril-2016				stevezhu:lodash				4.6.1				(added)
+19-Abril-2016               netanelgilad:excel          0.2.6               (added)
+19-Abril-2016               ostrio:meteor-root          1.0.3               (added)
+
+16-Mayo-2016                cfs:filesystem@=0.1.2                           (added)
+16-Mayo-2016                cfs:standard-packages@=0.5.9                    (added)
+
+23-Mayo-2016                rzymek:moment-locale-es@=2.9.0                  (added)
+
+8-Aug-2016                  richsilv:dumb-collections                       (removed)
+
+13-Aug-2016                 frozeman:persistent-minimongo2@=0.3.4            (removed - si existe)
+17-Aug-2016                 huaming:js-xlsx@=0.8.0                           (added)
+
+20-Aug-2016                 richsilv:dumb-collections@=1.1.5                 (added, again ...)

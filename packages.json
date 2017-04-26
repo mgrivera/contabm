@@ -1,0 +1,7 @@
+{
+  "sequelize": "3.21.0",
+  "tedious": "1.14.0",
+  "docxtemplater": "3.0.11",
+  "xlsx-injector": "0.0.3",
+  "jszip": "2.0.0"
+}

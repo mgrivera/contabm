@@ -1,0 +1,23 @@
+{
+  "name": "scrwebM",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular-ui-grid": "4.0.0",
+    "pdfmake": "0.1.20",
+    "papaparse": "4.1.1"
+  },
+  "private": true,
+  "ignoredDependencies": [
+    "angular"
+  ],
+  "overrides": {
+    "angular-ui-grid": {
+      "arch": [
+        "client"
+      ]
+    }
+  },
+  "resolutions": {
+    "angular": ">=1.4.0 1.5.x"
+  }
+}
